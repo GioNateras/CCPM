@@ -1,0 +1,1 @@
+Select Matricula, Id_Materia, Casistencia, Teoria, Practica, CLectura, GEstudio, (Teoria + Practica + Clectura + GEstudio)/4 as Promedio From Calificaciones where Id_Materia = 'SQ1058'

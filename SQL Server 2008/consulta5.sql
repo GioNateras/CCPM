@@ -1,0 +1,2 @@
+Update Calificaciones set EPra = 0, ETeo = 0, Clectura = 0, AutoEva = 0
+Update Asistencia set a1 = 0, a2 = 0, a3 = 0, a4 = 0, a5 = 0, a6 = 0, a7 = 0, a8 = 0, a9 = 0, a10 = 0, a11 = 0, a12 = 0, a13 = 0, a14 = 0, a15 = 0, a16 = 0, a17 = 0, a18 = 0, a19 = 0, a20 = 0, a21 = 0, a22 = 0, a23 = 0, a24 = 0, a25 = 0, a26 = 0, a27 = 0, a28 = 0, a29 = 0, a30 = 0, a31 = 0, a32 = 0, a33 = 0, a34 = 0, a35 = 0, a36 = 0, a37 = 0, a38 = 0, a39 = 0, a40 = 0

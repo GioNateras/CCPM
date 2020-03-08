@@ -1,0 +1,31 @@
+Dim oper As String
+Dim num1 As Integer
+Dim num2 As Integer
+Dim result As Double
+
+lblPantalla.Text &= 1
+
+num1 = lblPantalla.Text
+oper = "Suma"
+lblPantalla.Text = ""
+
+If oper = "Suma" Then
+	num2 = lblPantalla.text
+	result = num1 + num2
+	lblPantalla.Text = result
+
+ElseIf oper = "Resta" Then
+	num2 = lblPantalla.text
+	result = num1 - num2
+	lblPantalla.Text = result
+
+ElseIf oper = "Multiplicacion" Then
+ 	num 2 = lblPantalla.Text
+	result = num1 * num2
+	lblPantalla.Text = result
+
+ElseIf oper = "Division" Then
+	num2 = lblPantalla.Text
+	result = num1 / num2
+	lblPantalla.Text = result
+EndIf
